@@ -12,7 +12,12 @@ Encryption systems become more and more vulnerable the more widespread and well 
 Application of modern encryption techniques with custom imposed variables to create a unique encryption which would be harder to decode due to randomness and use of layered encryption.
 
 # Salient Features:
-Multiple encryption layers: Caeser cypher, Pig latin, ASCII code manipulation, Psuedo random scrambling.
+* Multiple encryption layers: 
+  * Caeser cypher. 
+  * Pig latin.
+  * ASCII code manipulation.
+  * Psuedo random scrambling.
 
 # Tools & Technologies:
-Programming language: C , Operating System: Windows
+* Programming language: C 
+* Operating System: Windows
