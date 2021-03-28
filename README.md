@@ -9,15 +9,14 @@ Encryption has become increasingly widespread in the digital age but all encrypt
 Encryption systems become more and more vulnerable the more widespread and well known they are. Furthermore, both encryption and decryption techniques are constantly advancing which means that encryption systems become outdated at a very rapid pace. This means that unique encryption methods which are consistently redeveloped with more and more advanced techniques are the need of the hour for reliable cyber security.
 
 # Proposed Solution:
-              Application of modern encryption
-techniques with custom imposed variables to create a unique encryption which would be harder to decode due to randomness and use of layered encryption.
+Application of modern encryption techniques with custom imposed variables to create a unique encryption which would be harder to decode due to randomness and use of layered encryption.
 
 # Salient Features:
 ●	Multiple encryption layers:
-o	Caeser cypher.
-o	Pig latin.
-o	ASCII code manipulation.
-o	Psuedo random scrambling.
+  o	Caeser cypher.
+  o	Pig latin.
+  o	ASCII code manipulation.
+  o	Psuedo random scrambling.
 
 # Tools & Technologies:
 Programming language: C 
